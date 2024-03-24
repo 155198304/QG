@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+E:\QG\第二周作业\Project2\FileName.cpp(26,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\QG\第二周作业\Project2\FileName.cpp(120,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  E:\QG\第二周作业\Project2\FileName.cpp(120,10):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  E:\QG\第二周作业\Project2\FileName.cpp(120,10):
+  缺失的可变参数 2 为格式字符串“%c”所需
+  E:\QG\第二周作业\Project2\FileName.cpp(120,10):
+  此参数用作缓冲区大小
+  
+E:\QG\第二周作业\Project2\FileName.cpp(139,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\QG\第二周作业\Project2\FileName.cpp(141,1): error C4700: 使用了未初始化的局部变量“you1”
+E:\QG\第二周作业\Project2\FileName.cpp(86,1): warning C4715: “READ”: 不是所有的控件路径都返回值
